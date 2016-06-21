@@ -1,6 +1,6 @@
 {
   "name": "swagger-blended-hub-api-explorer",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A collection of Swagger documentation for the Blended Hub APIs.",
   "main": "src/index.js",
   "scripts": {
